@@ -1,2 +1,2 @@
 # SpringOracleApp
-Spring boot , Jpa hibernate,Oracle 
+Spring Boot application with jpa hibernate and oracle database integration 
